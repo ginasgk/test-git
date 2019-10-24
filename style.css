@@ -8,6 +8,7 @@ p{
 }
 
 @media (max-width: 790px) {
-    .h1 {
+    h1 {
       color: blue;
     }
+}
